@@ -1,4 +1,7 @@
-<h1>This App is created with ViteJS</h1>
+<h1>Service Finder App</h1>
+<br>
+<p>Redux-Toolkit is used for state management.</p>
+<p>Context is used for creating "Loading Spinner".</p>
 
 <h3>What dependencies in this app?</h3>
 <ul style="font-size: 18px;">
@@ -13,7 +16,7 @@
   <li>React-Splide</li>
 </ul>
 <br>
-<h4>All data is taken from a RestAPI.</h4>
+<h4>All data is taken from RestAPI.</h4>
 <a href="https://github.com/emirbugra/react-api-tutorial/tree/main/docs/api"><small>API doc</small></a>
 <h4>Custom 'useApi' hook created for calling API's using axios.</h4>
 
