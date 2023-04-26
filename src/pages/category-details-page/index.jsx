@@ -37,7 +37,7 @@ function CategoryDetailsPage() {
           <Card.Text>
             <b>Updated At:</b> {myCategory.updated_at}
           </Card.Text>
-          <Link to="/"><Button variant="primary">Home Page</Button></Link>
+          <Link to="/categories"><Button variant="primary">Categories</Button></Link>
         </Card.Body>
       </Card>
     </div>
