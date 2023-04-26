@@ -1,0 +1,8 @@
+.button{
+  width: 100px !important;
+  height: 100px !important;
+}
+
+.max500{
+  max-width: 500px;
+}
