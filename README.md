@@ -13,7 +13,6 @@
   <li>Axios</li>
   <li>Classnames</li>
   <li>React-Router-Hash-Link</li>
-  <li>React-Splide</li>
 </ul>
 <br>
 <h4>All data is taken from RestAPI.</h4>
